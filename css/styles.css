@@ -47,3 +47,19 @@ h1 {
     display: inline;
     border: 2px solid black;
  }
+
+ .pointer {cursor: pointer;}
+
+ a:link {
+   color: black;
+   background-color: transparent;
+   text-decoration: none;
+ }
+ 
+ 
+ a:hover {
+   color: red;
+   background-color: transparent;
+   text-decoration: underline;
+ }
+ 
